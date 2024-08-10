@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.grid-cols{
+  @apply grid grid-cols-3
+}
+.sender{
+  /* @apply  */
+}
